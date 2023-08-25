@@ -1,0 +1,33 @@
+
+
+Attention Name ,
+
+We are writing to inform you about a recent security event on your network.
+
+Incident Details:
+- Windows Event ID: 4771
+- Description : Kerberos pre-authentication failed
+- Status Code information :
+Status Code: 0x18
+Description: Status Code: 0x18
+Description: Pre-authentication information was invalid
+More infos: Usually means bad password
+
+
+- SID :S-1-5-21
+- SID description : NT Authority - A SID that represents an identifier authority.
+- Please see the links for more details.
+
+Action Required:
+- Review the incident details and take appropriate action.
+- Analyze the potential impact on your network.
+- Enhance security measures to prevent similar incidents.
+
+Links : 
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4771
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4771
+
+For more information or assistance, please don't hesitate to reach out.
+
+Sincerely,
+Your Name
